@@ -1,0 +1,132 @@
+id;Tweet.Type;tweets;retweets;country
+1;Reply;5;64;United Kingdom
+1;Tweet;3;32;United Kingdom
+2;Tweet;2;42;United Kingdom
+2;ReTweet;9;0;United Kingdom
+2;Reply;5;24;United Kingdom
+3;ReTweet;3;0;Spain
+3;Tweet;6;18;Spain
+3;Reply;1;0;Spain
+4;Tweet;9;39;United Kingdom
+4;ReTweet;19;0;United Kingdom
+4;Reply;6;12;United Kingdom
+5;ReTweet;2;0;United Kingdom
+5;Tweet;6;53;United Kingdom
+5;Reply;21;45;United Kingdom
+6;Tweet;7;46;Canada
+7;ReTweet;7;0;Canada
+7;Reply;6;13;Canada
+7;Tweet;10;34;Canada
+8;ReTweet;1;0;Mexico
+8;Reply;5;4;Mexico
+8;Tweet;1;7;Mexico
+9;Tweet;1;16;Canada
+9;Reply;5;3;Canada
+9;ReTweet;3;0;Canada
+10;Tweet;9;30;United Kingdom
+10;Reply;6;7;United Kingdom
+10;ReTweet;9;0;United Kingdom
+11;Reply;8;19;Portugal
+11;Tweet;3;23;Portugal
+11;ReTweet;24;0;Portugal
+12;Reply;6;0;Canada
+12;Tweet;3;18;Canada
+13;Reply;18;79;United Kingdom
+13;Tweet;2;43;United Kingdom
+13;ReTweet;40;0;United Kingdom
+14;Tweet;19;77;United Kingdom
+14;ReTweet;11;0;United Kingdom
+15;Tweet;14;112;United Kingdom
+15;ReTweet;1;0;United Kingdom
+16;ReTweet;11;0;Spain
+16;Tweet;2;27;Spain
+16;Reply;11;8;Spain
+17;NA;NA;NA;India
+18;Tweet;6;7;United Kingdom
+18;ReTweet;2;0;United Kingdom
+19;NA;NA;NA;United States
+20;ReTweet;3;0;United Kingdom
+20;Reply;8;92;United Kingdom
+20;Tweet;2;196;United Kingdom
+21;NA;NA;NA;United Kingdom
+22;Tweet;4;26;United Kingdom
+22;ReTweet;6;0;United Kingdom
+22;Reply;5;28;United Kingdom
+23;Reply;5;18;United Kingdom
+23;ReTweet;16;0;United Kingdom
+23;Tweet;1;23;United Kingdom
+24;ReTweet;24;0;United Kingdom
+24;Tweet;1;27;United Kingdom
+24;Reply;6;11;United Kingdom
+25;ReTweet;7;0;India
+25;Tweet;7;20;India
+26;Tweet;1;11;Canada
+26;ReTweet;1;0;Canada
+26;Reply;6;6;Canada
+27;Tweet;45;62;United Kingdom
+27;ReTweet;19;0;United Kingdom
+27;Reply;7;6;United Kingdom
+28;ReTweet;2;0;United Kingdom
+28;Reply;8;4;United Kingdom
+28;Tweet;26;45;United Kingdom
+29;Tweet;1;46;United Kingdom
+29;ReTweet;39;0;United Kingdom
+29;Reply;5;64;United Kingdom
+30;Tweet;3;17;United Kingdom
+30;Reply;7;5;United Kingdom
+30;ReTweet;20;0;United Kingdom
+31;Reply;5;2;Portugal
+31;Tweet;2;5;Portugal
+32;ReTweet;8;0;Australia
+32;Reply;20;95;Australia
+32;Tweet;2;24;Australia
+33;Tweet;2;29;United Kingdom
+33;ReTweet;2;0;United Kingdom
+33;Reply;5;14;United Kingdom
+34;Reply;6;21;United Kingdom
+34;Tweet;2;36;United Kingdom
+34;ReTweet;9;0;United Kingdom
+35;Reply;19;89;United Kingdom
+35;Tweet;1;20;United Kingdom
+35;ReTweet;5;0;United Kingdom
+36;Tweet;7;41;United Kingdom
+36;Reply;6;21;United Kingdom
+36;ReTweet;77;0;United Kingdom
+37;Reply;5;1;United Kingdom
+37;Tweet;3;17;United Kingdom
+37;ReTweet;10;0;United Kingdom
+38;Reply;6;2;Czechia
+38;Tweet;2;8;Czechia
+38;ReTweet;5;0;Czechia
+39;Tweet;5;114;United States
+39;ReTweet;8;0;United States
+39;Reply;18;82;United States
+40;Reply;18;80;South Africa
+40;ReTweet;13;0;South Africa
+40;Tweet;2;16;South Africa
+41;Tweet;1;44;United Kingdom
+41;Reply;5;37;United Kingdom
+41;ReTweet;4;0;United Kingdom
+42;Reply;7;13;United Kingdom
+42;Tweet;7;27;United Kingdom
+42;ReTweet;7;0;United Kingdom
+43;Reply;7;10;United States
+43;Tweet;1;12;United States
+43;ReTweet;2;0;United States
+44;NA;NA;NA;India
+45;Tweet;2;11;United Kingdom
+45;Reply;7;14;United Kingdom
+45;ReTweet;2;0;United Kingdom
+46;Reply;3;0;United Kingdom
+46;Tweet;7;45;United Kingdom
+47;Tweet;18;51;United Kingdom
+47;ReTweet;342;0;United Kingdom
+47;Reply;14;25;United Kingdom
+48;Tweet;2;4;Italy
+48;Reply;5;5;Italy
+48;ReTweet;1;0;Italy
+49;Tweet;8;60;United States
+49;ReTweet;3;0;United States
+50;Reply;6;37;United Kingdom
+50;Tweet;2;87;United Kingdom
+50;ReTweet;6;0;United Kingdom
